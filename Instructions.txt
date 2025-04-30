@@ -1,0 +1,6 @@
+Before you run this app, please install the similarity.pkl file from my google drive. It was too big to put in GitHub.
+
+1. Install Similarity.pkl from my google drive link
+2. Insert in the root folder
+3. Run "pip install streamlit"
+4. Run "streamlit run movieApp.py"
